@@ -1,6 +1,6 @@
 %REMOVE nosie with a guassian fileter
 
-%% load image
+%% load image  input here
 img=imgread("");
 imshow(img);
 
